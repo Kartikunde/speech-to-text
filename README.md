@@ -4,15 +4,15 @@ A simple Python project that converts spoken words into text using the **SpeechR
 
 ## Features
 
-- 🎙️ Captures voice input from your microphone
-- 📝 Converts speech into text
-- 🔊 Adjusts for background noise
-- ⚠️ Handles common errors:
+-  Captures voice input from your microphone
+- Converts speech into text
+ -  Adjusts for background noise
+-  Handles common errors:
   - No speech detected
   - Unrecognized speech
   - Internet connection issues
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - SpeechRecognition

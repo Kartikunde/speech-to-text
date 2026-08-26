@@ -1,8 +1,8 @@
-# 🎤 Speech to Text
+#  Speech to Text
 
 A simple Python project that converts spoken words into text using the **SpeechRecognition** library and **Google Speech Recognition API**.
 
-## 📌 Features
+## Features
 
 - 🎙️ Captures voice input from your microphone
 - 📝 Converts speech into text
